@@ -4,9 +4,10 @@
     <string name="app_header">Узнать погоду</string>
     <string name="label_inter_city">Название города: </string>
     <string name="text_btn_add_city">Добавить</string>
+    <string name="text_btn_upd_temp">Обновить погоду</string>
     <string name="results_header">Информация о погоде:</string>
     <string name="results_city">Погода для города -> </string>
-    <string name="results_temp">Температура в городе:</string>
+    <string name="results_temp">Температура:</string>
     <string name="results_temp_1">Ощущается как:</string>
     <string name="results_speed_wind">Скорость ветра:</string>
     <string name="results_deg_wind">Направление ветра:</string>
